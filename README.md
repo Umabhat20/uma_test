@@ -50,6 +50,18 @@ The **Pull** option got executed fine, but the **Push to Hub** option gave an er
 **Note:** I did not perform the **Remove an image** step because **alpine/git** is the only image that I can see in the dashboard along with **docker-tutorial**. 
 So, I did not want to risk deleting the only single image in the dashbboard as I wasn't sure.
 
+Next step is - **Sample Application**
+
+In **Get the app** section, **Download the App contents** provides a link to Github repository.
+
+I sign up there and create an account with my email ID successfully. 
+
+Then I click the **Sign In** link and get this message saying - **Account Suspended. Access to your account has been suspended due to a violation of our terms of service Please contact support for more information.
+ 
+I got confused and shocked thinking what is the reason for suspension of my account?
+
+It is a weird and strange experience after successfully signing up my account
+
 
 
 **Clarity:**
