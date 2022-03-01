@@ -70,16 +70,21 @@ If I have to write the procedure for:
     c) Download and Run a Simple Application in a Docker Container
 
 I would 1st try to understand what is Docker Desktop.
+- Who is the audience for this document
 - What is the navigation, 
 - what are the steps to perform, 
 - what is the order in which steps are to be performed
+- as a User Assistance developer / technical writer - am I fine with the user experience I experienced during the usability testing I perform
+- improvements / suggestions to the team to fix the issue before publishing the documentation.
 
 Once I have these details, I perform the steps myself 1st and then write the procedure to be sure of the content I am providing in my documentation. 
 
-Keeping the end user experience in mind is very important in any documentation.
-
-Another way to be sure of your documentation and not miss anything in your content could be to write the draft of the steps you want the user to perform.
+_Keeping the end user experience in mind is very important in any documentation.
+_
+Another way to be sure of your documentation and not miss anything in your content could be to write the draft steps 1st.
 
 Then cross check with the application / navigation and review it to match the steps.
 
-Either way, you are checking the documentation with the application / navigation to be sure that you have not missed anything and the documentation is being provided to the point.
+Either way, you are checking the documentation with the application/navigation to be sure that you have not missed anything and the documentation is being provided to the point.
+
+This can help improvise the quality of the documentation and avoid a lot of uneasiness in the user due to lack of information.
